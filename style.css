@@ -11,3 +11,22 @@ li{
      margin-top: 10px;
      /* list-style: none; */
 }
+
+table{
+     border: 1px solid black;
+}
+
+td{
+     border: 1px solid black;
+     width: 100px;
+     text-align: center;
+     height: 50px;
+}
+
+table tr:nth-child(even){
+     background-color: red;
+}
+
+table tr:nth-child(odd){
+     background-color: skyblue;
+}
