@@ -30,3 +30,7 @@ table tr:nth-child(even){
 table tr:nth-child(odd){
      background-color: skyblue;
 }
+
+h3{
+     color: blue;
+}
