@@ -11,3 +11,9 @@ console.log(arr);
 
 var chan = "This is Change fdafdasfadfsafsafdasfasfasdfasfafadfasfsaf";
 chan = "Hello Change";
+
+let person = {
+     name: 'peyman',
+     family: 'rahmani',
+     func: () => name + ' ' + family
+};
