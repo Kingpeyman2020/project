@@ -15,5 +15,5 @@ chan = "Hello Change";
 let person = {
      name: 'peyman',
      family: 'rahmani',
-     func: () => name + ' ' + family
+     func: () => this.name + ' ' + this.family
 };
