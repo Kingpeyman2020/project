@@ -17,3 +17,15 @@ let person = {
      family: 'rahmani',
      func: () => this.name + ' ' + this.family
 };
+
+let person2 = {
+     name: 'peyman',
+     family: 'rahmani',
+     func: () => this.name + ' ' + this.family
+};
+
+let person3 = {
+     name: 'peyman',
+     family: 'rahmani',
+     func: () => this.name + ' ' + this.family
+};
